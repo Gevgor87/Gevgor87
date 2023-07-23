@@ -1,11 +1,11 @@
-## 💫 About Me:
+# 💫 About Me:
 
 I  have  never  worked  in  the  field  of  programming,  but  I  have  a  lot  of  work <br>experience in communicating with people. I did lot of projects on python and ML, <br>while i was studying, and continue learning and doing more. My motivation is to <br>learn new things and share knowledge with my teammates,because I like both <br>teamwork and  individual work. I am in favor of innovation. To gain experience I am <br>doing many tasks on the site Kaggle and on another's.
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gor-gevorgyan-501b8a261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gevgor87/)
 
 
 # 💻 Tech Stack:
