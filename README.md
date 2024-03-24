@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-Python programmer with about 1 year open source experience. Starting with Python projects (like social media bots, web scraping, different games, individual programs) begin to do back-end projects on Django/Django REST. After actually mastering Machine Learning, got involved in different projects in that field.
+I am a proficient Python programmer with a strong background as a middle-tier developer. Over the course of my career, I have successfully delivered numerous challenging projects, primarily leveraging Django as my framework of choice. My expertise extends beyond conventional web development, encompassing innovative domains such as Artificial Intelligence and automation. 
+
+I have hands-on experience implementing AI solutions, developing web scrapers, and creating Telegram bots to streamline processes and enhance user experiences. My familiarity with Machine Learning techniques allows me to integrate advanced functionalities into my projects, making them more dynamic and intelligent.
+ 
+Notably, I have worked with ML databases like qDrant and utilized vector-based machine learning approaches to solve complex problems efficiently. Moreover, I have had the privilege of incorporating OpenAI models into my applications, pushing the boundaries of what's possible with contemporary technologies.
+With a proven track record of delivering high-quality solutions and a passion for continuous learning, I am always eager to take on new challenges and contribute meaningfully to innovative projects.
 
 
 ## 🌐 Socials:
